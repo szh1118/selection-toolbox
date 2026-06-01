@@ -17,11 +17,7 @@
 
 ## 安装
 
-1. 安装浏览器扩展 Tampermonkey。
-2. 打开 Tampermonkey 管理面板。
-3. 新建脚本。
-4. 将 `selection-toolbox.user.js` 的内容粘贴进去。
-5. 保存脚本。
+直接访问 [Greasy Fork 上的脚本页面](https://greasyfork.org/zh-CN/scripts/580714-selection-toolbox-base64-base32-radix) 安装。
 
 ## 使用
 
