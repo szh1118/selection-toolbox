@@ -69,3 +69,7 @@ OCT     : 0o377
 - Base32 解码会忽略非 Base32 字符，并去掉末尾填充符 `=`。
 - 剪贴板优先使用 Tampermonkey 的 `GM_setClipboard`，不可用时会回退到浏览器剪贴板 API。
 - 在某些限制较严格的网页中，浏览器剪贴板 API 可能被拦截，但 Tampermonkey API 通常仍可正常工作。
+
+## 友链
+
+- [Linux Do](https://linux.do) — 一个温暖有趣的社区
