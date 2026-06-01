@@ -6,6 +6,7 @@
 // @author       You
 // @match        *://*/*
 // @grant        GM_setClipboard
+// @license      CC BY-NC-SA 4.0
 // @grant        GM_notification
 // @run-at       document-end
 // ==/UserScript==
